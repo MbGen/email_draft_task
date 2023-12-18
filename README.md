@@ -2,6 +2,7 @@
 
 - Using **MIMEMultipart** to create an email message: MIMEMultipart is a flexible and powerful tool for creating email messages that can contain text, images, audio, and video.
 - Using **base64** encoding for the body of an email message: Base64 encoding is a standard way of encoding binary data into a text format. This is necessary so that the Gmail API can accept the body of an email message as a string.
+- Using the **googleapiclient** library for authorization using OAuth: The googleapiclient library provides a convenient way to authorize using OAuth to access Google's APIs.
 
 ---
 
